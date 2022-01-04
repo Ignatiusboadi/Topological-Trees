@@ -1,6 +1,5 @@
 from collections import Counter
 from networkx.drawing.nx_agraph import graphviz_layout
-import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
 
